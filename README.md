@@ -6,3 +6,4 @@ Problems covered :
 >> 2) How generic tree works through stack
 >> 3) Display generic tree (recursive approach)
 >> 4) size of generic tree (number of nodes in generic tree)
+>> 5) Maximum element in generic tree (Recursive approach)
