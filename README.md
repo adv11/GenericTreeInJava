@@ -7,3 +7,4 @@ Problems covered :
 >> 3) Display generic tree (recursive approach)
 >> 4) size of generic tree (number of nodes in generic tree)
 >> 5) Maximum element in generic tree (Recursive approach)
+>> 6) Height of generic tree (according to number of edegs)
