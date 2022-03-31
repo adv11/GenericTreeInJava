@@ -9,3 +9,4 @@ Problems covered :
 >> 5) Maximum element in generic tree (Recursive approach)
 >> 6) Height of generic tree (according to number of edegs)
 >> 7) Traversals in generic tree 
+>> 8) Level order traversal
